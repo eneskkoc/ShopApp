@@ -13,9 +13,5 @@ Design Pattern
 --------------
 Dependency injection, Mvvm , object oriented programming   
 
-Preview
-------------
 
-
-https://user-images.githubusercontent.com/26390652/189891938-081b0e65-4a19-40dc-96b4-7b3457b608cf.mp4
 

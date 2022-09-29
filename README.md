@@ -2,7 +2,7 @@
  
  
 
-Kullanılan Teknolojiler
+Used Technologies
 ----------------------
 Dil:Kotlin           Mimari:Mvvm       Network:Retrofit         
 Dependency injection:Dagger Hilt       Fragment Control:Navigation       
